@@ -3,25 +3,29 @@
 		"id":"1",
 		"name":"Apple",
 		"img":"https://via.placeholder.com/350",
-		"price":"2330"
+		"price":"2330",
+		"quantity":1
 	},
 	{
 		"id":"2",
 		"name":"Pixel",
 		"img":"https://via.placeholder.com/350",
-		"price":"1340"
+		"price":"1340",
+		"quantity":1
 	},
 	{
 		"id":"3",
 		"name":"Samsung",
 		"img":"https://via.placeholder.com/350",
-		"price":"1330"
+		"price":"1330",
+		"quantity":1
 	},
 	{
 		"id":"4",
 		"name":"Nokia",
 		"img":"https://via.placeholder.com/350",
-		"price":"1330"
+		"price":"1330",
+		"quantity":1
 	}
 ]
 }
